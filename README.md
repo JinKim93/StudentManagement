@@ -21,11 +21,13 @@
 ## 2. 사용기술
 
 ![jdk](https://user-images.githubusercontent.com/82345970/186331907-5365c8e9-c126-4f99-94e0-fc6acf4152e8.jpg)
+<br></br>
 
 
-
-## 클래스정의 및 관계도
+## 3. 클래스정의 및 관계도
 ![image](https://user-images.githubusercontent.com/82345970/186297054-5b2c4a10-83e1-4c2d-aea7-55235e504a2f.png)
+
+
 
 #### 학생 안에 과목을 다 두면 너무 학생 안에 과목요소가 많이 들어가게 됨
 #### 과목이 줄어들거나, 늘고 하는 문제가 있고, 학생이 수강신청 안할수 잇음 -> Subject 분리를 함
